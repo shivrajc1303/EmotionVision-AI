@@ -174,6 +174,11 @@ Detailed evaluation results are available in the results/ directory.
 
 🖥️ Application
 
+### 📸 Application Preview
+
+![EmotionVision AI](screenshots/emotion_capture.jpg)
+
+![EmotionVision AI Screenshot](screenshots/emotion_capture_1.jpg)
 
 
 The project includes a Tkinter-based desktop application with:
